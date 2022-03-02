@@ -1,4 +1,4 @@
-header h1{
+header.h1{
     font-size: 3.25em;
     color:white;
     line-height: 1.2;
@@ -16,6 +16,6 @@ body{
 }
 
 .logoImg{
-    width: 800px;
+    width: 500px;
 
 }
