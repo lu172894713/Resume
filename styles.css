@@ -1,3 +1,10 @@
+header h1{
+    font-size: 3.25em;
+    color:white;
+    line-height: 1.2;
+    letter-spacing: -0.025em;
+}
+
 .header{
     padding: 5em 3em 2em 3em;
 }
@@ -9,6 +16,6 @@ body{
 }
 
 .logoImg{
-    width: 300px;
+    width: 3000px;
 
 }
