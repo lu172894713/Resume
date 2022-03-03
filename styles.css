@@ -6,6 +6,10 @@ header.h1{
     letter-spacing: -0.025em;
 }
 
+.wrapper{
+    text-align: center;
+}
+
 .header{
     padding: 5em 3em 2em 3em;
 }
