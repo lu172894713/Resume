@@ -18,10 +18,12 @@ body{
 
 body.h1{
     color: white;
+    background: none;
 }
 
 .name{
     color:white;
+    
 }
 
 .logoImg{
