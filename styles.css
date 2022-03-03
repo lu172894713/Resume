@@ -12,20 +12,23 @@ header.h1{
 
 body{
     margin: 0;
-    background: rgb(79, 39, 94);
+    background: rgb(90, 61, 101);
     text-align: center;
 
 }
 
-body.h1{
-    color: white;
+
+.h1{
+    color:white;
     background: none;
 }
 
-
-
 .logoImg{
     width: 500px;
+}
+
+.left{
+    text-align: left;
 }
 
 #nav ul li a.active {
