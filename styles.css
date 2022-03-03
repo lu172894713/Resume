@@ -25,6 +25,7 @@ body{
 
 .logoImg{
     width: 500px;
+    display: inline-block;
 }
 
 .left{
