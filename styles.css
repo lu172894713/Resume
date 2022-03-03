@@ -13,6 +13,11 @@ body{
     margin: 0;
     background: rgb(45, 5, 62);
     text-align: center;
+
+}
+
+body.h1{
+    color: white;
 }
 
 .logoImg{
@@ -23,6 +28,10 @@ body{
 #nav ul li a.active {
     background-color: white;
     box-shadow: none;
+}
+
+#nav.alt ul li a{
+    front-size: 0.9em;
 }
 
 #nav ul li a {
